@@ -1,2 +1,2 @@
-Hello World!
-SSAFY
+
+Hello World! SSAFY
